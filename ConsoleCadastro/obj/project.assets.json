@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\ConsoleCadastro\\ConsoleCadastro.csproj",
+      "projectUniqueName": "c:\\Users\\FIC\\Desktop\\codexp-back\\ConsoleCadastro.csproj",
       "projectName": "ConsoleCadastro",
-      "projectPath": "C:\\Users\\FIC\\Desktop\\ConsoleCadastro\\ConsoleCadastro.csproj",
+      "projectPath": "c:\\Users\\FIC\\Desktop\\codexp-back\\ConsoleCadastro.csproj",
       "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FIC\\Desktop\\ConsoleCadastro\\obj\\",
+      "outputPath": "c:\\Users\\FIC\\Desktop\\codexp-back\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

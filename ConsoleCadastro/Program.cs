@@ -6,11 +6,24 @@ namespace ConsoleCadastro
     {
         static void Main(string[] args)
         {
-            int idade;
+            //float f = 2.21f;
+            //double d = 2.21;
 
-            idade = int.Parse(Console.ReadLine());
+            //Console.WriteLine(f);
 
-            Console.WriteLine("Digitei: "+idade);
+            //Console.WriteLine(int.MaxValue);
+            //Console.WriteLine(long.MaxValue);
+
+            string coffee = FazerCafe("caramelo");
+
+        }
+
+        static string FazerCafe(string capsula){
+            System.Console.WriteLine("Esquentar agua");
+            System.Console.WriteLine("Colocar pó de magia (café)");
+            System.Console.WriteLine("Colocar "+capsula);
+
+            return "coffee";
         }
     }
 }
